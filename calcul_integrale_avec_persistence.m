@@ -1,4 +1,5 @@
 clear all
+%% Sur
 
 % valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Sur\A3 14068764gt A3/14068764gt Specimen 1 Data File.xls');
 % valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Sur\A4 14072604It A4/14072604It Specimen 1 Data File.xls');
@@ -53,9 +54,55 @@ clear all
 % valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Sur\A93 91067680et A93/91067680et Specimen 1 Data File.xls');
 % valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Sur\A94 91067745ht A94/91067745ht Specimen 1 Data File.xls');
 % valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Sur\A97 3267627ht A97/3267627ht Specimen 1 Data File.xls');
-valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Sur\A99 91166298ht A99/91166298ht Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Sur\A99 91166298ht A99/91166298ht Specimen 1 Data File.xls');
 
 
+%% Pas sur
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A5 14076581et A5/14076581et Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A8 44122168ht1 A8/44122168ht1 Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A9 13518484et A9/13518484et Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A10 14063867c2t A10/14063867c2t Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A15 14054035ct A15/14054035ct Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A20 13956405ht A20 an tóraco abd roto\13956405ht A20/13956405ht Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A21 14096630et A21- an iliaca int roto/14096630et Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A22 14061845jt A22/14061845jt Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A23 14050696bt A23/14050696b t Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A26 14080011dt A26 an iliaca/14080011dt Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A29 14111548it A29/14111548it Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A31 14021513bt A31/14021513bt Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A34 3197488ht A34/3197488ht Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A37 14117895jt A37/14117895jt Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A38 14112330at A38 an inflamatório/14112330at Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A39 14043088gt1 A39/14043088gt1 Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A40 14108995gt A40 an iliaca/14108995gt Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A41 14120898ct A41/14120898ct Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A43 13976846kt A43/13976846kt1 Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A45 14125476bt1 A45/14125476bt1 Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A51 55753969at A51/55753969at Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A53 3364426ct1 A53/3364426ct1 Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A58 13443371gt A58/13443371gt Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A60 2265655jt1 A60 an art esplênica/2265655jt1 Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A63 90651389jt A63/90651389ja63t Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A67 14111629jt A67/14111629jt A67 Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A69 14095069et A69/14095069et A69 Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A71 14154314bt A71/14154314bt A71  Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A73 14088715it A73/14088715it A73  Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A78 14135492e1t A78 an art esplênica/14135492e1t Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A78 14135492et A78 an art esplênica/14135492et Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A82 14100024ft A82/14100024ft Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A84 14153657bt A84 an iliaca/14153657bt A84 an iliaca Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A86 14056024ht A86/14056024ht A86 Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A87 15123464it A87/15123464it A87 Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A90 13896151ct A90/13896151ct Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A91 14162678et A91/14162678et Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A92 91060570ct A92/91060570ct Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A95 14178449gt A95 an iliaca/14178449gt Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A96 14180026kt A96 pseudo aneurisma/14180026kt Specimen 1 Data File.xls');
+% valeur_excel = xlsread('I:\Chercheurs\Soulez_Gilles\Projets\Bresil\Complete Data\TESTES BIOMECÂNICOS CIRURGIAS\Marie\Pas sur\A98 14189029gt A98 an iliaca int/14189029gt2 Specimen 1 Data File.xls');
+
+
+
+%% Code
 data = valeur_excel(:,10); %colonne 10 = stress = y
 single_precision_data = single(data);
 
